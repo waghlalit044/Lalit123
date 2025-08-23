@@ -1,0 +1,30 @@
+Position:  Position is used to keep elements at different places in user interfaces. There are 
+
+
+Types of position: 
+        There are 5 types of position as following:
+        1. Static
+        2. Absolute
+        3. Fixed
+        4. Relative
+        5. Sticky 
+
+1. Static: By default, all elements are static. Staic elelemnets  can't top,left,right,bottom etc
+
+1. Absolute: Elements move according to the position of body, so left:100px will actually move towards leftmost end of screen.
+             Scrolling have impact on Absolute.
+
+3. Relative: elements move accordingly position of currenrt position. so, left: 0px will have no impact toward it.
+
+4. Fixed: elements also move accordinglybody but will not scrollable.
+
+5. sticky: nthg but relative + fixed , so initially it stays like relative but once it reaches creain point , it becomes fixed untill it parent end reached.
+
+
+
+
+Projects Purpose:
+        1. A website shouldn look beautiful.
+        2. A website should have a purpose. 
+
+Note: We can't use Float & Position at same time for same elemnets

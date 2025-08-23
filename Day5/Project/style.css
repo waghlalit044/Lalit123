@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   /*   */
+}
+
+
+
+body{
+    margin: 20px ;
+    background-color:antiquewhite;
+    max-width: 1280px;      /* To make fixed size for all display type */
+
+}
+
+
+h2{
+    clear: left;
+    text-align: center;
+    font-size: 48px;
+    color: chartreuse;
+}
+
+.leftDiv, .rightDiv,ul
+{
+  
+}
+
+
+.leftDiv{
+     padding: 20px;
+     border: 2px solid black;
+     box-shadow: 5px 10px 50px gold;
+     border-radius: 20px ;
+     position: relative;
+}
+
+
+ul{
+    display: inline-block;
+}
+
+li>a{
+    font-size:24px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.rightDiv{
+    width: 60%;
+}

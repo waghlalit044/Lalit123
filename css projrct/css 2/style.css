@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height:100vh;
+    width: 200vh;
+}
+.div1{
+    display: inline-block;
+height: 150px;
+width: 300px;
+border: 1px solid blue;
+margin: 25px;
+align-content: center;
+text-align: center;
+border-radius: 10px;
+
+}
+#bd1{
+   
+    border: 1px dotted orangered;
+    display: inline-block;
+
+   
+}
+#bd2{
+    border: 1px ;
+    display: inline-block;
+   
+}
